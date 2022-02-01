@@ -32,7 +32,7 @@ The latest (stable) version of Python , version `3.10.2` , has optional support 
 - [Atom](https://atom.io)
 - [PyDev](https://pydev.org)
 - [Doom Emacs](https://github.com/hlissner/doom-emacs)
-- [Spyder](https://Spyder-ide.org])
+- [Spyder](https://Spyder-ide.org)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [PyCharm](https://jetbrains.com/PyCharm)
 - [Visual Studio Community](https://aka.ms/vs)
@@ -46,15 +46,15 @@ The latest (stable) version of Python , version `3.10.2` , has optional support 
 - "Standard" Python install (uses the bundled `pip` )
 
 ## Popular applications written in Python
-- Dropbox
-- Reddit
-- Facebook(backend)
-- Blender
-- Pip (the Python package manager - bootstrapped)
-- SageMath
-- Spyder IDE
-- Google App Engine
-- **Google search engine's entire ML backend uses** *Tensorflow* - **one of the most popular ML Libraries**
+- [Dropbox](https://dropbox.com)
+- [Reddit](https://reddit.com)
+- [Facebook(backend)](https://facebook.com)
+- [Blender](https://blender.org)
+- [Pip (the Python package manager - bootstrapped)](https://pip.pypa.io/en/stable/)
+- [SageMath](https://sagemath.org)
+- [Spyder IDE](https://spyder-ide.org)
+- [Google App Engine](https://cloud.google.com/appengine/)
+- **Google search engine's entire ML backend uses** [Tensorflow](https://tensorflow.org) - **one of the most popular ML Libraries**
 
 *Note: Julia, Go , Swift , Ruby and Coffeescript are among the languages inspired by the Pythonic syntax*
 
