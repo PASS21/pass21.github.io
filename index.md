@@ -19,7 +19,6 @@
 <!--- https://github.com/PASS21/docs/blob/main/index.md#Python-Distributions -->
 
 ## Introduction to Python
-![Python Img](https://downloadly.net/wp-content/uploads/2020/03/The-Complete-Python-Programming-Course-for-Beginners-300x300.jpg)
 
 Python is a [dynamic](https://wikipedia.org/wiki/Dynamic_Programming_Language) interpreted [high-level](https://en.wikipedia.org/wiki/High-level_programming_language) language. It is designed to emphasise readability , and is well-known for its significant usage of *code indentation* .
 
