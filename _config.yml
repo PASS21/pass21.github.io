@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-title: Documentation for PASS
+title: Introduction to PASS
 description: Simple (but full-featured) password manager written in Python
 github:
   is_project_page: false
