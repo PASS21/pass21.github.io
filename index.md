@@ -2,7 +2,7 @@
 
 
 ---
-### Created by [Sai Pranav](https://github.com/maddisaipranav), [ZeStig](https://github.com/ZeRealStig), [Srinath](https://github.com/Srinath-Anand) and Aadhil
+### Created by [Sai Pranav](https://github.com/maddisaipranav) , [ZeStig](https://github.com/ZeRealStig) , [Srinath](https://github.com/Srinath-Anand) and Aadhil
 
 | Contents:                              |
 |----------------------------------------|
