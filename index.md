@@ -101,4 +101,4 @@ The latest (stable) version of Python , version `3.10.2` , has optional support 
 - [Pandas](https://pandas.pydata.org)
 - [Wikipedia](https://wikipedia.org)
 
-[^1]: Note: You need to have Jupyter Notebook installed* - type `pip install jupyter` *from the terminal or Command Prompt.*
+[^1]: Note: Jupyter notebook isn't a strict requirement, but if you want Jupyter Notebook installed* - type `pip install jupyter` *from the terminal or Command Prompt.*
